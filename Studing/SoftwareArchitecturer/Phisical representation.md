@@ -1,0 +1,1 @@
+is a real phisycal things like PCs or Servers and connection between them is called web

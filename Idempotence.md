@@ -1,0 +1,1 @@
+Definition - Is an ability to return the same result over and over 

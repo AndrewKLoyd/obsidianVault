@@ -1,0 +1,2 @@
+* Moving project from one place(PC) to another  place(PC) project could stop working or face some [[PortabilityIssues]]. There're some problems like dependencys or etc. And Docker solve this proplem, aka "It works on my machine" problem
+* [[Docker]] allows to create a containers that contains: Code; Dependencies; Configurations; Processes that are running; Some chunk of OS; 
