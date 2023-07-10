@@ -11,8 +11,12 @@
             "id": "994f5288e9004c16",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psyco/Список претензий.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psyco/Список претензий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psyco/Список претензий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psyco/Список претензий.md"
+              }
             }
           }
         ],
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +157,8 @@
   },
   "active": "994f5288e9004c16",
   "lastOpenFiles": [
+    "Psyco/Список претензий.md",
+    "Psyco",
     "RestAPI.md",
     "Studing/Discovery.md",
     "OOP.md",
