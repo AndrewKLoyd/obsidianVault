@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15a3636372005593",
+        "id": "baf3ea7258d08e99",
         "type": "tabs",
         "children": [
           {
-            "id": "994f5288e9004c16",
+            "id": "5d5245fb7032f8d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psyco/Список претензий.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psyco/Список претензий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psyco/Список претензий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psyco/Список претензий.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994f5288e9004c16",
+  "active": "5d5245fb7032f8d2",
   "lastOpenFiles": [
     "Psyco/Список претензий.md",
     "Psyco",
