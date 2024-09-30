@@ -1,2 +1,0 @@
-DONT motivate youself via finish result like: I'll get payed more; I'll have sexy body etc... . The hard fork for some result makes that work much more challenging => you won't like the hard work or any type of work in the future.
-Because the reward comes at the end of activity, we don't associate activity with dophamine but reward only

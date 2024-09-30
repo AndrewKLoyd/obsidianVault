@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "baf3ea7258d08e99",
+        "id": "1600a4866da3a72d",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5245fb7032f8d2",
+            "id": "23db6efa3cd3a10b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psyco/Список претензий.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8d9245e5f9d0acdb",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psyco/Список претензий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psyco/Список претензий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psyco/Список претензий.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,32 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5245fb7032f8d2",
+  "active": "2985a25a5a288d2f",
   "lastOpenFiles": [
+    "DockerAndKubernetes/Docker what is it.md",
+    "Untitled.canvas",
+    "Архитектор ПО(SkillBox)",
+    "Studing/RestApi.md",
+    "Studing/Socket.md",
+    "Studing/SOLID.md",
+    "Studing/Redis.md",
+    "Studing/MAUITab.md",
+    "Studing/Discovery.md",
+    "Studing/SoftwareArchitecturer/Architecture and it's role.md",
+    "Studing/SoftwareArchitecturer/Logic representation.md",
+    "Studing/SoftwareArchitecturer/Architector.md",
+    "Studing/SoftwareArchitecturer/4 + 1 model or 5 representation of architecture.md",
+    "Studing/SoftwareArchitecturer/Realisation representation.md",
+    "Pasted image 20221123134621.png",
+    "RestAPI.md",
+    "OOP.md",
+    "SoftWare LiveCycle.md",
+    "Microservices.md",
+    "Idempotence.md",
+    "DataBase.md",
+    "CleanArchitecture/Clean architecture.md",
+    "CleanArchitecture",
+    "UnitTests.md",
+    "Zettelkasten(Система ведения заметок).md",
+    "FSWM widget refactor.md",
     "Psyco/Список претензий.md",
     "Psyco",
-    "RestAPI.md",
-    "Studing/Discovery.md",
-    "OOP.md",
-    "DockerAndKubernetes/Docker what is it.md",
     "Studing/RequestTracing.md",
     "Flutter/Flutter.md",
-    "Idempotence.md",
-    "GoogleProtoBuff.md",
-    "DataBase.md",
-    "UnitTests.md",
-    "SoftWare LiveCycle.md",
-    "Zettelkasten(Система ведения заметок).md",
-    "Software Development Models.md",
-    "Soft-Skills.md",
-    "Pasted image 20221123134621.png",
-    "Microservices.md",
-    "Motivation/Quit smoking.md",
-    "Studing/SoftwareArchitecturer/Architector.md",
-    "Studing/Connection.md",
-    "Flutter",
-    "Studing/NetMQ(ZeroMQ).md",
-    "Studing/SoftwareArchitecturer/Realisation representation.md",
-    "Studing/SoftwareArchitecturer/4 + 1 model or 5 representation of architecture.md"
+    "Flutter"
   ]
 }
